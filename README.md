@@ -1,4 +1,12 @@
 empty-push
 ==========
 
-empty buttons built with bootstrap
+Outlined bootstrapp buttons
+
+iOS style & Metro Style
+
+Sexy
+
+***
+
+
